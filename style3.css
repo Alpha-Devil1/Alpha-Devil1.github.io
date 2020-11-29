@@ -1,0 +1,14 @@
+body {
+	background-color: rgb(67,68,89);
+}
+
+.card-title{
+	text-align: center;
+	font-size: 50px;
+}
+
+.card-text{
+	text-align: left;
+	font-size: 30px;
+	padding-left: 40px;
+}

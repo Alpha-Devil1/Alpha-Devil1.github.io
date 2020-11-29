@@ -1,3 +1,6 @@
+body{
+	background-color: rgb(67,68,89);
+}
 .navbar-brand{
 	font-family: Montserrat;
 	font-weight: bold;
@@ -13,4 +16,8 @@ h2{
 	font-weight: bold;
 	background-color: grey;
 	color: rgb(0,255,0);
+}
+
+.t1{
+	color: white;
 }
